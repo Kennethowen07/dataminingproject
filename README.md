@@ -41,5 +41,5 @@ Then run all cells.
 
 ## Files
 
-- aol.ipynb - main notebook
+- notebook.ipynb - main notebook
 - requirements.txt - technical requirements
