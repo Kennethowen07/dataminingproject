@@ -42,13 +42,4 @@ Then run all cells.
 ## Files
 
 - aol.ipynb - main notebook
-- raw_dataset.csv (renamed from global-data-on-sustainable-energy.csv) - raw dataset
-- cleaned_dataset.csv - cleaned dataset
 - requirements.txt - technical requirements
-- executive_summary.pdf - brief summary on this project
-
-## Group Members
-
-- Kenneth Owen - 2802402590
-- Kristanto Winata - 2802442285
-- Wesley Peyfendo - 2802534203
