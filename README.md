@@ -34,7 +34,7 @@ pip install -r requirements.txt
 Open the notebook:
 
 ```bash
-jupyter notebook aol.ipynb
+jupyter notebook notebook.ipynb
 ```
 
 Then run all cells.
